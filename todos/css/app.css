@@ -1,0 +1,14 @@
+
+input{
+	font-size:2em;
+}
+
+li{
+	color:blue;
+	font-size:2em;
+}
+
+.selected{
+	background-color:#dddddd;
+}
+

@@ -1,0 +1,25 @@
+
+
+.menu-item{
+	width:100px;
+	height:30px;
+	background-color:orange;
+	outline:solid;
+	display:inline-block;
+	text-align:center;
+}
+
+#main{
+	background-color:green;
+	height:1000px;
+}
+
+#about{
+	background-color:blue;
+	height:1000px;
+}
+
+#stuff{
+	background-color:purple;
+	height:1000px;
+}
